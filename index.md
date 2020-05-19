@@ -1,3 +1,4 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+As a first log i'd love to let everyone know i started learning 2 weeks ago <br>
+Please Be Kind
